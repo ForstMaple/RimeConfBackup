@@ -1,0 +1,8 @@
+var:
+  last_build_time: 1613367292
+  previously_selected_schema: double_pinyin_flypy
+  schema_access_time:
+    double_pinyin_flypy: 1613316056
+    luna_pinyin: 1613313874
+    luna_pinyin_simp: 1613314003
+    placeless_flypy: 1613315049
